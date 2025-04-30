@@ -102,7 +102,7 @@ function getStory(name) {
             title: "Fishies and Sea Creatures",
             story: `Hand in hand, you wander slowly from tank to tank. You and your love stand close, faces almost pressed to the glass, whispering guesses about each creature. Adriana points excitedly at two clownfish swimming alongside each other and exclaims <i>“Us!”</i>, you giggle and nod your head.`,
             buttonText: "Continue",
-            image:"fisk.PNG",
+            image:"fisk.png",
             defaultDestination: 'fisk',
         },
         dolphin:{
@@ -157,7 +157,7 @@ function getStory(name) {
             <br><br>You've heard the line before, but you still can’t help smiling, heart light and happy.`,
             buttonText: "Continue",
             defaultDestination: 'garden',
-            image:"bench.PNG"
+            image:"bench.png"
         },
         greenhouse:{
             title: "The Greenhouse",
@@ -170,7 +170,7 @@ function getStory(name) {
             story: `You find the perfect spot along the path and decide it’s the ideal place for a picnic. You and Adriana spread out a soft blanket under the shade of a blooming cherry blossom tree. From your backpack, you pull out containers filled with sandwiches, fresh fruit, and little treats. Birds chirp and flutter in the nearby branches, their songs weaving through the warm, quiet air as you both relax and munch happily on your snacks.`,
             buttonText: "Continue",
             defaultDestination: 'garden',
-            image:"picnic.PNG"
+            image:"picnic.png"
         },
         omw:{
             title: "On the way Home",
