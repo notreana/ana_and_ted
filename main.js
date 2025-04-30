@@ -101,8 +101,8 @@ function getStory(name) {
         sea:{
             title: "Fishies and Sea Creatures",
             story: `Hand in hand, you wander slowly from tank to tank. You and your love stand close, faces almost pressed to the glass, whispering guesses about each creature. Adriana points excitedly at two clownfish swimming alongside each other and exclaims <i>“Us!”</i>, you giggle and nod your head.`,
+            image:"fish.png",
             buttonText: "Continue",
-            image:"metal.png",
             defaultDestination: 'fisk'
         },
         dolphin:{
@@ -155,8 +155,8 @@ function getStory(name) {
             story: `As you wander along the path, the two of you spot a bench nestled beneath a cherry tree heavy with blossoms. You settle onto it, sinking into the shade of pink petals. A gentle breeze stirs the air, carrying the sweet scent of fresh blooms. You reach for Adriana’s hand and give it a soft squeeze. She smiles warmly.
             <br><br><i>“If I had a flower for every time I thought about you, it would be bigger than this whole garden!” </i>she says, grinning.
             <br><br>You've heard the line before, but you still can’t help smiling, heart light and happy.`,
-            buttonText: "Continue",
             image:"metal.png",
+            buttonText: "Continue",
             defaultDestination: 'garden'
             
         },
@@ -169,8 +169,8 @@ function getStory(name) {
         picnic:{
             title: "Snack Break",
             story: `You find the perfect spot along the path and decide it’s the ideal place for a picnic. You and Adriana spread out a soft blanket under the shade of a blooming cherry blossom tree. From your backpack, you pull out containers filled with sandwiches, fresh fruit, and little treats. Birds chirp and flutter in the nearby branches, their songs weaving through the warm, quiet air as you both relax and munch happily on your snacks.`,
-            buttonText: "Continue",
             image:"foood.png",
+            buttonText: "Continue",
             defaultDestination: 'garden'
             
         },
