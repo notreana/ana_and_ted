@@ -102,7 +102,7 @@ function getStory(name) {
             title: "Fishies and Sea Creatures",
             story: `Hand in hand, you wander slowly from tank to tank. You and your love stand close, faces almost pressed to the glass, whispering guesses about each creature. Adriana points excitedly at two clownfish swimming alongside each other and exclaims <i>“Us!”</i>, you giggle and nod your head.`,
             buttonText: "Continue",
-            image:"fish.png",
+            image:"mirror.png",
             defaultDestination: 'fisk'
         },
         dolphin:{
